@@ -1,0 +1,26 @@
+body {
+  background-color: #fff7f7;
+  font-family: sans-serif;
+}
+
+#container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-content: space-between
+}
+
+.product-section {
+  flex-basis: 26%;
+  max-height: 655px;
+  border: 1px solid black;
+}
+
+img {
+  height: 200px;
+}
+
+.review-div {
+  height: 200px;
+  overflow-y: auto;
+}

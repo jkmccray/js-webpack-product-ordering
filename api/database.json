@@ -2,24 +2,24 @@
   "products": [
     {
       "id": 1,
-      "title": "Alpaca Cat Toy",
+      "name": "Alpaca Cat Toy",
       "description": "Alpaca cat toy provides hours of entertainment for your cat",
       "price": "$2.99",
       "quantity": 1,
       "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_5655b9a4-da98-4e1e-b3f6-b5c3878ce224?wid=488&hei=488&fmt=webp",
       "reviews": [
         {
-          "name": "Adley",
+          "reviewer": "Adley",
           "review": "Lorem ipsum dolor amet dreamcatcher hashtag mumblecore skateboard cliche, tattooed ethical typewriter chia ramps fashion axe pug. Quinoa DIY umami adaptogen, cloud bread snackwave microdosing retro vexillologist normcore flannel. Fashion axe chartreuse palo santo, butcher tote bag offal forage. Iceland hammock skateboard before they sold out single-origin coffee cray umami keytar. Heirloom ennui pabst forage gentrify thundercats migas shoreditch. Vice unicorn 3 wolf moon fixie occupy.",
           "stars": 4
         },
         {
-          "name": "Lennon",
+          "reviewer": "Lennon",
           "review": "Narwhal biodiesel austin authentic. Kogi master cleanse mumblecore intelligentsia. Seitan everyday carry quinoa try-hard vexillologist PBR&B. Pickled readymade master cleanse iceland, man braid deep v vice retro aesthetic prism hammock street art single-origin coffee taxidermy polaroid. Copper mug tote bag kickstarter hammock tousled +1 normcore banjo.",
           "stars": 5
         },
         {
-          "name": "Woodson",
+          "reviewer": "Woodson",
           "review": "Waistcoat mixtape crucifix tacos, ugh la croix kinfolk marfa trust fund ramps mlkshk skateboard jean shorts. Vinyl raclette microdosing irony, XOXO prism copper mug chicharrones butcher cronut tumblr. Kogi glossier twee heirloom iPhone, tumeric put a bird on it food truck woke blog flexitarian. Dreamcatcher normcore art party gentrify single-origin coffee air plant +1, four loko ugh pug small batch raw denim.",
           "stars": 3
         }
@@ -27,24 +27,24 @@
     },
     {
       "id": 2,
-      "title": "Peacock Feather Wand",
+      "name": "Peacock Feather Wand",
       "description": "Peacock feathers trigger hunting instincts",
       "price": "$2.75",
       "quantity": 1,
       "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_03a44203-b921-40fa-8fb3-47679822c9d5?wid=488&hei=488&fmt=webp",
       "reviews": [
         {
-          "name": "Mikkel",
+          "reviewer": "Mikkel",
           "review": "Vaporware portland synth messenger bag DIY cardigan adaptogen. Tousled PBR&B lomo, raclette put a bird on it paleo shabby chic vegan fam. Fam sartorial church-key direct trade. Before they sold out godard glossier cloud bread, leggings plaid fingerstache. Crucifix salvia health goth, tote bag leggings fixie schlitz gentrify small batch. Taxidermy wolf pitchfork yr, gentrify jean shorts fixie vaporware aesthetic leggings humblebrag direct trade.",
           "stars": 3
         },
         {
-          "name": "Kai",
+          "reviewer": "Kai",
           "review": "Keffiyeh skateboard wayfarers viral lumbersexual poutine selfies fam cronut palo santo af 8-bit. Typewriter cray echo park ugh raw denim pabst. Flannel PBR&B DIY swag cliche deep v helvetica next level, tumblr dreamcatcher af meh viral. 90's waistcoat butcher forage small batch try-hard actually. Letterpress lyft man bun shoreditch brunch artisan copper mug YOLO knausgaard helvetica before they sold out portland put a bird on it hell of kickstarter. Mlkshk tumblr mumblecore, lumbersexual retro butcher celiac pour-over squid lomo drinking vinegar. Snackwave raclette hashtag YOLO waistcoat 8-bit typewriter.",
           "stars": 5
         },
         {
-          "name": "Hudson",
+          "reviewer": "Hudson",
           "review": "Humblebrag locavore bushwick thundercats tattooed. Mustache single-origin coffee scenester umami williamsburg, tilde drinking vinegar. Schlitz cold-pressed vinyl street art intelligentsia franzen you probably haven't heard of them portland everyday carry woke adaptogen hella banh mi pug. Trust fund brunch letterpress pork belly, paleo affogato neutra butcher plaid. Tumeric glossier enamel pin, viral venmo pok pok woke slow-carb locavore. Typewriter humblebrag artisan prism.",
           "stars": 2
         }
@@ -52,24 +52,24 @@
     },
     {
       "id": 3,
-      "title": "SmartyKat Fish Flop Soft Cat Toy",
+      "name": "SmartyKat Fish Flop Soft Cat Toy",
       "description": "Set of three floppy crinkle fish",
       "price": "$3.99",
       "quantity": 3,
       "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_761e3ec0-48e1-4804-adef-b2b83cbaa11e?fmt=webp&wid=700&qlt=80",
       "reviews": [
         {
-          "name": "Sullivan",
+          "reviewer": "Sullivan",
           "review": "Waistcoat authentic XOXO, migas coloring book ramps vape trust fund four dollar toast squid asymmetrical fixie irony actually mlkshk. Neutra bushwick lomo readymade everyday carry seitan. Church-key vegan echo park health goth live-edge. Semiotics unicorn bespoke offal lo-fi, hella man bun typewriter flannel forage listicle polaroid.",
           "stars": 5
         },
         {
-          "name": "Mishka",
+          "reviewer": "Mishka",
           "review": "Chartreuse cronut pabst ethical, man braid polaroid seitan. Live-edge food truck readymade cred af adaptogen listicle thundercats tattooed. Adaptogen narwhal four loko tumeric, air plant tote bag waistcoat kale chips roof party craft beer pabst humblebrag pop-up. Bushwick meh listicle, af roof party hashtag cronut etsy.",
           "stars": 3
         },
         {
-          "name": "Tallulah",
+          "reviewer": "Tallulah",
           "review": "Banh mi cornhole tumeric ugh microdosing. Stumptown williamsburg everyday carry man bun lomo pabst, +1 swag neutra hammock unicorn freegan. Pug brunch tumblr blue bottle austin distillery. Chambray fashion axe subway tile humblebrag direct trade. Iceland thundercats tbh fanny pack chillwave ugh, meggings irony flannel wayfarers ennui heirloom.",
           "stars": 4
         }
@@ -77,24 +77,24 @@
     },
     {
       "id": 4,
-      "title": "Mylar Cat Toys",
+      "name": "Mylar Cat Toys",
       "description": "White crinkle cat balls offer hours of playtime activity for your furry friend",
       "price": "$1.99",
       "quantity": 4,
       "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_dd4f8cf6-6db2-4f05-a8e5-7f3e28f4a1ec?wid=488&hei=488&fmt=webp",
       "reviews": [
         {
-          "name": "Saffron",
+          "reviewer": "Saffron",
           "review": "Single-origin coffee tilde trust fund fingerstache 8-bit gluten-free truffaut wolf etsy woke mustache craft beer flannel gastropub. Mlkshk DIY whatever pickled microdosing kogi flexitarian meh jean shorts adaptogen retro. Put a bird on it normcore chillwave flexitarian cornhole marfa. Tattooed 3 wolf moon shoreditch gentrify scenester PBR&B.",
           "stars": 1
         },
         {
-          "name": "Django",
+          "reviewer": "Django",
           "review": "Crucifix af polaroid kale chips. Narwhal drinking vinegar blog meggings helvetica letterpress readymade flannel paleo lumbersexual kombucha hella. Four dollar toast slow-carb selfies, swag artisan hexagon fanny pack. Cred tattooed shoreditch succulents. Pickled lumbersexual affogato, banjo banh mi tumeric sriracha vaporware retro master cleanse actually humblebrag adaptogen.",
           "stars": 4
         },
         {
-          "name": "Frances",
+          "reviewer": "Frances",
           "review": "Af shaman leggings, street art shabby chic VHS etsy portland organic. Fashion axe seitan gochujang, four dollar toast kitsch hell of chillwave umami. XOXO lomo four loko, church-key synth unicorn direct trade meditation glossier yuccie letterpress bitters. Humblebrag migas semiotics woke put a bird on it readymade mustache pitchfork bicycle rights chambray stumptown fanny pack tattooed marfa. Single-origin coffee put a bird on it sriracha keffiyeh, roof party chia truffaut try-hard chartreuse kombucha four dollar toast.",
           "stars": 3
         }
@@ -102,24 +102,24 @@
     },
     {
       "id": 5,
-      "title": "Skiter Critter Catnip Cat Toys",
+      "name": "Skiter Critter Catnip Cat Toys",
       "description": "Plush mouse designs",
       "price": "$2.19",
       "quantity": 3,
       "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_48e21426-8a55-4dea-98e0-2ceb87275ab3?wid=488&hei=488&fmt=webp",
       "reviews": [
         {
-          "name": "Fenton",
+          "reviewer": "Fenton",
           "review": "Vexillologist hexagon tbh etsy neutra roof party portland fixie pug farm-to-table pickled crucifix distillery. Heirloom distillery wayfarers squid pitchfork offal sustainable pabst palo santo readymade gentrify farm-to-table neutra messenger bag. Hot chicken cliche chartreuse whatever hexagon prism raclette occupy. Kinfolk thundercats sustainable humblebrag vegan. Skateboard literally slow-carb, venmo jianbing raclette trust fund jean shorts hot chicken letterpress lo-fi air plant. Chia single-origin coffee meh celiac green juice vegan mlkshk man bun bushwick retro jianbing scenester unicorn forage.",
           "stars": 4
         },
         {
-          "name": "Rogue",
+          "reviewer": "Rogue",
           "review": "Viral small batch cronut air plant tumblr, stumptown literally plaid. Four dollar toast gentrify shabby chic, listicle craft beer 90's marfa whatever copper mug. Flannel irony literally, af forage craft beer brooklyn. Twee PBR&B schlitz, beard fanny pack chambray lo-fi skateboard shoreditch. Bushwick lyft kombucha, vexillologist master cleanse YOLO tumblr etsy chicharrones VHS. Narwhal affogato viral williamsburg hell of hammock butcher. Hexagon vegan asymmetrical vinyl, +1 pinterest meggings XOXO tumblr pork belly.",
           "stars": 3
         },
         {
-          "name": "Poppy",
+          "reviewer": "Poppy",
           "review": "Tote bag tofu kale chips trust fund godard beard. Hot chicken four loko intelligentsia bushwick kale chips woke artisan hell of pickled ennui raclette flannel +1 tacos succulents. Gochujang stumptown shaman paleo pinterest williamsburg franzen cliche taxidermy crucifix. Cold-pressed tousled pok pok blog dreamcatcher succulents hashtag flexitarian 90's kogi synth fanny pack live-edge hammock schlitz. Gentrify tote bag bushwick gluten-free prism.",
           "stars": 4
         }
@@ -127,24 +127,24 @@
     },
     {
       "id": 6,
-      "title": "Cat Toy Set - Cactus & Pineapple",
+      "name": "Cat Toy Set - Cactus & Pineapple",
       "description": "Cactus and pineapple cat toy set makes an irresistible play companion",
       "price": "$2.99",
       "quantity": 2,
       "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_d44450b6-44da-44b5-abb4-bc203fc4d20a?wid=488&hei=488&fmt=webp",
       "reviews": [
         {
-          "name": "August",
+          "reviewer": "August",
           "review": "Post-ironic aesthetic raw denim, brunch flexitarian tofu tumeric lumbersexual ugh. Williamsburg meggings plaid yuccie banjo. Heirloom messenger bag before they sold out, XOXO pug polaroid raclette letterpress retro literally leggings vexillologist echo park 8-bit activated charcoal. Tote bag stumptown paleo, squid lyft cardigan hell of vape retro four dollar toast tofu.",
           "stars": 2
         },
         {
-          "name": "Prairie",
+          "reviewer": "Prairie",
           "review": "Tote bag hoodie hashtag palo santo pinterest, sustainable tumblr enamel pin hell of art party YOLO neutra. Bicycle rights 3 wolf moon blue bottle, godard coloring book dreamcatcher mustache tattooed tumeric. Unicorn selfies marfa vaporware, artisan skateboard fingerstache. Brooklyn blog af tousled drinking vinegar, offal banh mi bitters quinoa kale chips helvetica synth organic.",
           "stars": 4
         },
         {
-          "name": "Matilda",
+          "reviewer": "Matilda",
           "review": "Try-hard wolf snackwave, raw denim wayfarers fashion axe chartreuse edison bulb put a bird on it offal adaptogen kombucha. Skateboard pok pok tousled, franzen farm-to-table tacos roof party keytar banjo quinoa. Bushwick direct trade hammock tilde drinking vinegar, ethical umami pok pok next level cardigan sustainable try-hard selvage celiac. Direct trade food truck cold-pressed jianbing pitchfork keffiyeh. Jianbing you probably haven't heard of them semiotics affogato. Try-hard kombucha venmo, kickstarter YOLO slow-carb celiac.",
           "stars": 4
         }
@@ -152,24 +152,24 @@
     },
     {
       "id": 7,
-      "title": "Catnip Tea Bags Cat Toy",
+      "name": "Catnip Tea Bags Cat Toy",
       "description": "Cat toy set includes 2 tea bag cat toys",
       "price": "$2.95",
       "quantity": 2,
       "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_c8c4befd-a01e-434b-85dd-12484852ca07?wid=488&hei=488&fmt=webp",
       "reviews": [
         {
-          "name": "Gulliver",
+          "reviewer": "Gulliver",
           "review": "Hashtag YOLO chambray artisan selvage poutine. Drinking vinegar vexillologist cloud bread VHS copper mug fanny pack affogato meggings. Pop-up wayfarers mixtape occupy church-key jean shorts 3 wolf moon YOLO everyday carry heirloom cornhole artisan coloring book. Asymmetrical man bun banjo artisan, ethical microdosing swag poke bitters keffiyeh ramps pinterest. Synth forage af post-ironic scenester, raclette occupy messenger bag.",
           "stars": 5
         },
         {
-          "name": "Piper",
+          "reviewer": "Piper",
           "review": "Stumptown paleo hell of fam bitters. Jianbing hammock man braid, banh mi pour-over squid etsy seitan flexitarian lo-fi vaporware subway tile four dollar toast swag narwhal. Meh gentrify franzen you probably haven't heard of them 3 wolf moon chia coloring book church-key seitan pitchfork raw denim mumblecore shaman pug. La croix mlkshk woke hexagon drinking vinegar DIY, umami flexitarian whatever hella farm-to-table microdosing ethical authentic. Paleo leggings narwhal shaman microdosing wayfarers poutine gochujang fam distillery lo-fi VHS aesthetic.",
           "stars": 5
         },
         {
-          "name": "Bracken",
+          "reviewer": "Bracken",
           "review": "Brunch master cleanse tacos put a bird on it ethical leggings offal copper mug meh church-key jianbing narwhal. Hot chicken echo park cronut roof party photo booth pinterest wolf tilde helvetica tousled yuccie next level raclette. Lo-fi biodiesel tumblr jianbing, bicycle rights seitan banh mi. Next level synth gochujang gentrify neutra. Williamsburg kombucha selvage stumptown, green juice jean shorts keffiyeh tacos meggings hammock knausgaard kogi succulents. Cornhole farm-to-table kale chips authentic forage artisan stumptown food truck before they sold out glossier synth. Four loko fanny pack man bun cold-pressed cardigan cloud bread sriracha shoreditch hoodie.",
           "stars": 4
         }
@@ -177,24 +177,24 @@
     },
     {
       "id": 8,
-      "title": "Pizza Slice Cat Toy",
+      "name": "Pizza Slice Cat Toy",
       "description": "Cat crinkle toy set includes 2 pizza-themed cat toys",
       "price": "$2.99",
       "quantity": 2,
       "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_28e79570-4eca-4be0-bda9-5fddd9881e67?wid=488&hei=488&fmt=webp",
       "reviews": [
         {
-          "name": "Teigen",
+          "reviewer": "Teigen",
           "review": "Retro chartreuse vaporware jianbing, blog venmo chia. Roof party snackwave before they sold out tbh, raclette unicorn XOXO actually shaman cronut tote bag live-edge truffaut af keytar. Four dollar toast succulents pop-up, subway tile sriracha pinterest disrupt cray aesthetic chartreuse freegan gluten-free. XOXO hell of ennui, meditation truffaut hexagon poke vegan gluten-free slow-carb photo booth. You probably haven't heard of them vaporware succulents lomo banjo street art bespoke synth. Meh tbh before they sold out jean shorts fingerstache fanny pack humblebrag sustainable YOLO kinfolk 3 wolf moon pug yuccie helvetica actually.",
           "stars": 2
         },
         {
-          "name": "Cobi",
+          "reviewer": "Cobi",
           "review": "Put a bird on it 3 wolf moon celiac bitters organic tattooed. Occupy mumblecore crucifix kogi portland, letterpress jianbing edison bulb 3 wolf moon. Art party schlitz kinfolk, skateboard celiac salvia echo park humblebrag sartorial portland leggings. Helvetica shoreditch kitsch intelligentsia readymade aesthetic echo park DIY slow-carb post-ironic la croix quinoa lumbersexual pickled.",
           "stars": 5
         },
         {
-          "name": "Amory",
+          "reviewer": "Amory",
           "review": "Cornhole poutine migas chia kogi tbh meditation trust fund cray kickstarter biodiesel swag heirloom shoreditch austin. Paleo taxidermy adaptogen air plant vaporware pour-over next level hella gochujang scenester. Pop-up chillwave cliche, schlitz four dollar toast cornhole sartorial. Austin pitchfork irony, cardigan before they sold out synth banh mi cray man braid hashtag organic locavore edison bulb raclette. Hella artisan dreamcatcher scenester truffaut.",
           "stars": 3
         }
@@ -202,24 +202,24 @@
     },
     {
       "id": 9,
-      "title": "Fish Tacos Cat Toy Set",
+      "name": "Fish Tacos Cat Toy Set",
       "description": "Plush taco catnip toys are the purrfect treat for your feline friend",
-      "price": "$.299",
+      "price": "$2.99",
       "quantity": 2,
       "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_0c0f9071-fda3-4c13-a1d0-ef0858ff23f0?wid=488&hei=488&fmt=webp",
       "reviews": [
         {
-          "name": "Stella",
+          "reviewer": "Stella",
           "review": "Photo booth fanny pack selfies williamsburg, biodiesel poutine paleo normcore. Vice neutra subway tile shaman, narwhal cray salvia tofu hot chicken taiyaki skateboard bespoke cardigan. Artisan la croix iceland vegan subway tile single-origin coffee, knausgaard blog cornhole migas brooklyn edison bulb. Jean shorts fingerstache fam paleo, banh mi tofu marfa raclette yuccie. Tote bag hexagon health goth tacos farm-to-table tattooed lyft banh mi master cleanse humblebrag pabst bicycle rights seitan. Gentrify tumeric mustache gluten-free seitan lomo venmo, dreamcatcher knausgaard vice banjo bespoke yuccie flannel. Wayfarers sartorial aesthetic celiac pug woke small batch distillery.",
           "stars": 5
         },
         {
-          "name": "Monty",
+          "reviewer": "Monty",
           "review": "Ethical whatever kickstarter cliche four dollar toast drinking vinegar retro tacos sustainable banh mi craft beer. Cronut jianbing wayfarers subway tile, hammock raw denim vaporware butcher +1 kogi pour-over disrupt craft beer cred tilde. Salvia tilde selvage everyday carry humblebrag tofu gochujang kogi bicycle rights. Umami raclette single-origin coffee, cardigan twee adaptogen mlkshk. Tofu migas hashtag, fam ugh direct trade pinterest kogi selfies salvia vape next level poke pickled.",
           "stars": 5
         },
         {
-          "name": "Edison",
+          "reviewer": "Edison",
           "review": "Offal banjo street art before they sold out readymade vinyl. Ethical XOXO locavore umami gluten-free literally vaporware poutine palo santo pinterest prism 8-bit try-hard salvia dreamcatcher. Hammock la croix roof party, before they sold out chicharrones tofu taxidermy craft beer blog unicorn shoreditch edison bulb kombucha seitan activated charcoal. La croix meh chia mixtape art party iceland stumptown direct trade, meggings salvia.",
           "stars": 5
         }
@@ -227,24 +227,24 @@
     },
     {
       "id": 10,
-      "title": "Yarn Balls Pet Toy Set",
+      "name": "Yarn Balls Pet Toy Set",
       "description": "3pk cat pet toy set includes 3 fuzzy yarn balls",
       "price": "$2.50",
       "quantity": 3,
       "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_8136d4f6-a088-4247-8062-c62d79d7dd2a?wid=488&hei=488&fmt=webp",
       "reviews": [
         {
-          "name": "Duke",
+          "reviewer": "Duke",
           "review": "Mustache art party slow-carb edison bulb banh mi heirloom yr, sriracha aesthetic microdosing marfa. Man braid wayfarers squid franzen. Marfa freegan copper mug franzen, pork belly selvage retro vexillologist banh mi echo park. Meggings four loko put a bird on it venmo master cleanse ethical next level food truck truffaut dreamcatcher you probably haven't heard of them YOLO.",
           "stars": 3
         },
         {
-          "name": "Zinnia",
+          "reviewer": "Zinnia",
           "review": "Raclette man bun authentic cray. Brooklyn cornhole drinking vinegar, lyft put a bird on it pinterest everyday carry. Ugh polaroid post-ironic crucifix vegan cloud bread before they sold out sustainable hashtag. Lo-fi letterpress flexitarian 8-bit.",
           "stars": 3
         },
         {
-          "name": "London",
+          "reviewer": "London",
           "review": "Actually direct trade cardigan, gentrify gluten-free intelligentsia salvia cold-pressed hot chicken twee. Prism tousled kinfolk unicorn twee. Cred lyft whatever single-origin coffee DIY hashtag chicharrones, chartreuse kale chips. Typewriter coloring book health goth, taiyaki irony +1 ramps farm-to-table asymmetrical raw denim sustainable. Farm-to-table street art mixtape typewriter echo park wolf meggings vinyl tote bag lomo you probably haven't heard of them copper mug. Narwhal austin gastropub, ennui try-hard distillery drinking vinegar shoreditch disrupt hammock kombucha cornhole.",
           "stars": 4
         }

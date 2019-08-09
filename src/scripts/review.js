@@ -1,14 +1,17 @@
 import elFactory from "./factory.js";
 
-const reviewComponent = (reviewObj) => {
-  const reviewSection = elFactory("section", {})
-  const name = elFactory("h3", {}, reviewObj.name)
-  const stars = elFactory("div", {}, reviewObj.stars)
+const createReviewComponent = (reviewObj, productIdNum) => {
+  const reviewSection = elFactory("section", { classList: ["review-section", "product--" + productIdNum] })
+  const reviewer = elFactory("h3", {}, reviewObj.reviewer)
+  const stars = elFactory("div", {}, "Rating: " + reviewObj.stars)
   const review = elFactory("p", {}, reviewObj.review)
-  // append reviewSection to a node inside the product in the DOM 
-  reviewSection.appendChild(name)
+  const hr = elFactory("hr")
+  const reviewDiv = document.querySelector("#product-reviews--" + productIdNum)
+  reviewDiv.appendChild(reviewSection)
+  reviewSection.appendChild(reviewer)
   reviewSection.appendChild(stars)
   reviewSection.appendChild(review)
+  reviewSection.appendChild(hr)
 }
 
-export default reviewComponent
+export default createReviewComponent
