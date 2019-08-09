@@ -6,8 +6,7 @@ const renderProductList = () => {
 
   productData().then((products) => {
     products.forEach(product => {
-      createProductComponent(product, productIdNum)
-      productIdNum++
+      createProductComponent(product)
     })
   })
 }
