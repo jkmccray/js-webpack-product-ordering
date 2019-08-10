@@ -132,7 +132,8 @@ img {
   margin: 5px 0 10px 0;
 }
 
-/* Scroll Bar Styling */
+/* Hide Scroll Bar */
 ::-webkit-scrollbar {
   display: hidden;
+  width: 0;
 }

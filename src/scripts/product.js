@@ -1,7 +1,7 @@
 import elFactory from "./factory.js"
-import createReviewList from "./reviewList.js"
+import reviewList from "./reviewList.js"
 
-
+// reviewList.getAvgRatings().then(obj => console.log(obj))
 const productContainer = document.querySelector("#container")
 
 const createProductComponent = (productObj) => {
@@ -14,6 +14,7 @@ const createProductComponent = (productObj) => {
   const quantity = elFactory("h4", {}, "quantity: " + productObj.quantity)
   const description = elFactory("p", {classList: ["description"]}, productObj.description)
   const reviewsHeading = elFactory("h2", {classList: ["reviews-heading"]}, "reviews")
+  // const avgRating = elFactory("h4", {classList: ["avg-rating"]}, "average rating: " + avgRatingCalc)
   const reviewDiv = elFactory("div", {classList: "review-div", id: "product-reviews--" + productObj.id})
   productContainer.appendChild(productSection)
   productSection.appendChild(nameHeading)
@@ -23,9 +24,10 @@ const createProductComponent = (productObj) => {
   priceAndQuantity.appendChild(quantity)
   priceAndQuantity.appendChild(price)
   productSection.appendChild(description)
+  // productSection.appendChild(avgRating)
   productSection.appendChild(reviewsHeading)
   productSection.appendChild(reviewDiv)
-  createReviewList(productObj.id)
+  reviewList.createReviewList(productObj.id)
 }
 
 export default createProductComponent
