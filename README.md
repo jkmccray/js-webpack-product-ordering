@@ -1,9 +1,20 @@
-# Webpack with JSON Server Application Boilerplate
+# betsy
 
-## Setup
+betsy(TM) is your #1 source for all types of entertaining toys for your feline friend.
+Discover our wide variety of toys. We have everything listed below and more!
+  - Animal-shaped toys
+  - Plant-shaped toys
+  - Food-shaped toys
+  - Plush toys
+  - Rattling toys
+  - Crinkly toys
 
-1. Fork (do not clone) this repository. Click the Fork button in the upper-right hand corner of the page.
-1. Clone your fork of this repository to your local machine with `git clone`.
-1. Open the `package.json` file and change the `name` property to the name of your application, and `author` to  your name.
-1. From your command line, be in the main project directory and run `npm install`.
-1. To start your application, run `npm start`.
+### customer reviews
+> betsy is my all-time favorite website
+> for finding fun, exciting toys for my
+> cat, Felix. Their toys are unique and 
+> keep him entertained for hours!
+> --Ruth, customer since 2014
+
+Visit our website today! 
+betsy.com
