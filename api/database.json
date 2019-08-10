@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Alpaca Cat Toy",
+      "name": "Alpaca Plush Cat Toy",
       "description": "Alpaca cat toy provides hours of entertainment for your cat",
       "price": "$2.99",
       "quantity": 1,
@@ -52,7 +52,7 @@
     },
     {
       "id": 3,
-      "name": "SmartyKat Fish Flop Soft Cat Toy",
+      "name": "Fish Flop Soft Cat Toy",
       "description": "Set of three floppy crinkle fish",
       "price": "$3.99",
       "quantity": 3,
@@ -77,8 +77,8 @@
     },
     {
       "id": 4,
-      "name": "Mylar Cat Toys",
-      "description": "White crinkle cat balls offer hours of playtime activity for your furry friend",
+      "name": "Mylar Ball Cat Toys",
+      "description": "White crinkle cat balls offer hours of playtime activity",
       "price": "$1.99",
       "quantity": 4,
       "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_dd4f8cf6-6db2-4f05-a8e5-7f3e28f4a1ec?wid=488&hei=488&fmt=webp",
@@ -102,7 +102,7 @@
     },
     {
       "id": 5,
-      "name": "Skiter Critter Catnip Cat Toys",
+      "name": "Critter Catnip Cat Toys",
       "description": "Plush mouse designs",
       "price": "$2.19",
       "quantity": 3,
@@ -127,8 +127,8 @@
     },
     {
       "id": 6,
-      "name": "Cat Toy Set - Cactus & Pineapple",
-      "description": "Cactus and pineapple cat toy set makes an irresistible play companion",
+      "name": "Pineapple & Cactus Plushes",
+      "description": "Cactus and pineapple toys are an irresistible play companion",
       "price": "$2.99",
       "quantity": 2,
       "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_d44450b6-44da-44b5-abb4-bc203fc4d20a?wid=488&hei=488&fmt=webp",
@@ -152,7 +152,7 @@
     },
     {
       "id": 7,
-      "name": "Catnip Tea Bags Cat Toy",
+      "name": "Catnip Tea Bags Cat Toys",
       "description": "Cat toy set includes 2 tea bag cat toys",
       "price": "$2.95",
       "quantity": 2,
@@ -203,7 +203,7 @@
     {
       "id": 9,
       "name": "Fish Tacos Cat Toy Set",
-      "description": "Plush taco catnip toys are the purrfect treat for your feline friend",
+      "description": "Plush taco catnip toys are the purrfect treat",
       "price": "$2.99",
       "quantity": 2,
       "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_0c0f9071-fda3-4c13-a1d0-ef0858ff23f0?wid=488&hei=488&fmt=webp",
@@ -227,7 +227,7 @@
     },
     {
       "id": 10,
-      "name": "Yarn Balls Pet Toy Set",
+      "name": "Yarn Balls Cat Toy Set",
       "description": "3pk cat pet toy set includes 3 fuzzy yarn balls",
       "price": "$2.50",
       "quantity": 3,
