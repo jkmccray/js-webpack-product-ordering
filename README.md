@@ -17,6 +17,5 @@ Discover our wide variety of toys. We have everything listed below and more!
 > --Ruth, customer since 2014
 
 Visit our website today! 
-betsy.com
 
 <img src="./src/images/betsy-preview.png" alt="page-preview"/>
