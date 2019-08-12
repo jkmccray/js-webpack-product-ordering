@@ -18,3 +18,5 @@ Discover our wide variety of toys. We have everything listed below and more!
 
 Visit our website today! 
 betsy.com
+
+<img src="./images/betsy-preview.png" alt="page-preview"/>

@@ -104,14 +104,18 @@ img {
   min-height: 3em;
 }
 
-.avg-rating {
+.avg-rating-container {
   width: 220px;
+}
+
+.avg-rating {
   font-family: 'Lexend Exa', sans-serif;  
   font-size: .9em;
 }
 
 .avg-rating-cats{
-  width: 220px;
+  overflow-x: hidden;
+  white-space: nowrap;  
 }
 
 .reviews-heading {

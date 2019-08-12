@@ -28,7 +28,7 @@ export default {
         const avgRating = arr.find(rating => {
           return rating.id === product.id
         })
-        createProductComponent(product, avgRating.stars.toFixed(1))
+        createProductComponent(product, avgRating.stars.toFixed(3))
       })
     })
   }
