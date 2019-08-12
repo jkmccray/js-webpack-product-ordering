@@ -1,10 +1,9 @@
 import elFactory from "./factory.js"
 import reviewList from "./reviewList.js"
 
-// reviewList.getAvgRatings().then(obj => console.log(obj))
 const productContainer = document.querySelector("#container")
 
-const createProductComponent = (productObj) => {
+const createProductComponent = (productObj, avgRating) => {
   const productSection = elFactory("section", {classList: "product-section", id: "product--" + productObj.id})
   const img = elFactory("img", {src: productObj.imageUrl, alt: productObj.name})
   const nameHeading = elFactory("div", {classList: ["name-heading"]})
@@ -14,7 +13,8 @@ const createProductComponent = (productObj) => {
   const quantity = elFactory("h4", {}, "quantity: " + productObj.quantity)
   const description = elFactory("p", {classList: ["description"]}, productObj.description)
   const reviewsHeading = elFactory("h2", {classList: ["reviews-heading"]}, "reviews")
-  // const avgRating = elFactory("h4", {classList: ["avg-rating"]}, "average rating: " + avgRatingCalc)
+  const avgRatingDisplay = elFactory("h4", {classList: ["avg-rating"]}, "average rating:")
+  const avgRatingCats = elFactory("div", {classList: ["avg-rating-cats"]}, "😺".repeat(avgRating))
   const reviewDiv = elFactory("div", {classList: "review-div", id: "product-reviews--" + productObj.id})
   productContainer.appendChild(productSection)
   productSection.appendChild(nameHeading)
@@ -24,7 +24,8 @@ const createProductComponent = (productObj) => {
   priceAndQuantity.appendChild(quantity)
   priceAndQuantity.appendChild(price)
   productSection.appendChild(description)
-  // productSection.appendChild(avgRating)
+  productSection.appendChild(avgRatingDisplay)
+  productSection.appendChild(avgRatingCats)
   productSection.appendChild(reviewsHeading)
   productSection.appendChild(reviewDiv)
   reviewList.createReviewList(productObj.id)

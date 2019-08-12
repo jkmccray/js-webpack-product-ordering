@@ -9,22 +9,6 @@ export default {
         review.createReviewComponent(reviewObj, productIdNum)
       })
     })
-  },
-  getAvgRatings() {
-    reviewData().then(allReviews => {
-      let allAverageReviews = []
-      allReviews.forEach(reviewAndIdObj => {
-        let totalStars = 0
-        let avgRating = 0
-        reviewAndIdObj.reviews.forEach(reviewObj => {
-          totalStars += reviewObj.stars
-        })
-        avgRating = totalStars/reviewAndIdObj.reviews.length
-        const newAvgRatingObj = review.createAvgRatingObj(avgRating, reviewAndIdObj.id)
-        allAverageReviews.push(newAvgRatingObj)
-      })
-      return allAverageReviews
-    }
-    )
   }
 }
+
